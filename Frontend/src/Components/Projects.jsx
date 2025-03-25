@@ -11,8 +11,8 @@ export default function Projects() {
       title: "React Challenges",
       description: "Desafíos prácticos para mejorar mis habilidades en React. Este repositorio está organizado para que puedas practicar desde los conceptos básicos hasta los proyectos más avanzados de React.",
       image: "/assets/proyecto1.png", // Esta imagen debe ser válida
-      githubLink: "https://github.com/tuusuario/react-challenges",
-      liveLink: "#",
+      githubLink: "https://github.com/MrBlueKing/react-challenges",
+      liveLink: "https://react-easy-challenges.vercel.app/",
       technologies: ["React", "JavaScript", "Tailwind CSS"]
     }
   ];
